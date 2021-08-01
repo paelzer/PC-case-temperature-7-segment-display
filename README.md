@@ -25,33 +25,44 @@ It has been tested sucessfully with following setup:
 
 ## Required hardware components:
 
-      7 segment display with 4 digits (common anode type)
-	  1x 8bit shift register 74HC595
-	  1x Resistor xxx Ohm
-	  1x Resistor xxx Ohm
-      KTY81 110 temperature sensor
-      Arduino NANO
+    7 segment display with 4 digits (common anode type)
+    1x 8bit shift register 74HC595
+    1x Resistor xxx Ohm
+    1x Resistor xxx Ohm
+    KTY81 110 temperature sensor
+    Arduino NANO
       
 Check the pinout below to see know the components need to be connected:
 
-74HC595 Pin	   Display Pin
-	Q0		11		
-	Q1		1
-	Q2		2
-	Q3		3
-	Q4		4
-	Q5		5
-	Q6		7
-	Q7		10
-
-xxx
-	  xxx
-	  xxx
-	  to be continoued...
-
+	74HC595 Pin	   Display Pin
+	    Q0		       11		
+	    Q1		       1
+	    Q2		       2
+	    Q3		       3
+	    Q4		       4
+	    Q5		       5
+	    Q6		       7
+	    Q7		       10
+	
+	74HC595 Pin	   Arduino NANO
+	    MR			D12
+	    SH_CP		D6
+	    ST_CP		D7
+	    DS			D8
+	    
+	Arduino NANO	   Display Pin
+	    D2			12
+	    D3			9
+	    D4			8
+	    D5			6
+	    
+	KTY81-110 Pin	    Arduino NANO
+	    1			A1
+	    2			
+	    
 <b>Click to enlarge:</b> 
 </br> </br>
-<img src="https://to_be_done.png" width="600">
+<img src="https://imgur.com/jWa8qOf" width="600">
 
 
 ## Check the temperature on the serial line (COM port)
