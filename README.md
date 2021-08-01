@@ -3,8 +3,6 @@
 
 **Not that it's really neccessary to have this... but I think it looks cool anyway :-)**
 
-> **Note:** This description is not yet complete. Some more detailed pictures I still need to add... will be done soon.
-
 </br>
 <img src="https://i.imgur.com/EwXUg77.png">
 
