@@ -32,7 +32,7 @@ It has been tested sucessfully with following setup:
     KTY81 110 temperature sensor
     Arduino NANO
       
-Check the pinout below to see know the components need to be connected:
+Check pinout and schematic below to know how the components need to be connected:
 
 	74HC595 Pin	   Display Pin
 	    Q0		       11		
@@ -60,10 +60,9 @@ Check the pinout below to see know the components need to be connected:
 	    1			5V
 	    2			check in schematic below
 	    
-<b>Click to enlarge:</b> 
 </br> </br>
 <img src="https://i.imgur.com/jWa8qOf.png" width="600">
-
+<b>Click to enlarge:</b>
 
 ## Check the temperature on the serial line (COM port)
 
