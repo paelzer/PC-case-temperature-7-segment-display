@@ -62,7 +62,7 @@ Check the pinout below to see know the components need to be connected:
 	    
 <b>Click to enlarge:</b> 
 </br> </br>
-<img src="https://imgur.com/jWa8qOf" width="600">
+<img src="https://i.imgur.com/jWa8qOf.png" width="600">
 
 
 ## Check the temperature on the serial line (COM port)
