@@ -1,7 +1,7 @@
 # PC case temperature on a 4-digit 7-segment display
 **This project allows you to show your PC case temperature on a 4 digit 7 segment display connected to an Arduino NANO**
 
-**Not that it's really neccessary to have one... but I think it looks cool anyway :-)**
+**Not that it's really neccessary to have this... but I think it looks cool anyway :-)**
 
 > **Note:** This description is not yet complete. Some more detailed pictures I still need to add... will be done soon.
 
