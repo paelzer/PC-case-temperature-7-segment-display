@@ -25,12 +25,12 @@ It has been tested sucessfully with following setup:
 
 ## Required hardware components:
 
-    -7 segment display with 4 digits (common anode type)
-    -1x 8bit shift register 74HC595
-    -1x Resistor 3.3K Ohm
-    -8x Resistor 220 Ohm
-    -KTY81 110 temperature sensor
-    -Arduino NANO
+    - 7 segment display with 4 digits (common anode type)
+    - 1x 8bit shift register 74HC595
+    - 1x Resistor 3.3K Ohm
+    - 8x Resistor 220 Ohm
+    - KTY81 110 temperature sensor
+    - Arduino NANO
       
 ## Pinout and schematic:
 
