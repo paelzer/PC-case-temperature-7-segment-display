@@ -32,6 +32,7 @@ uint8_t ones = 0, tens = 0;
 //define digits for 7 segm display
 char digit[13] = 
 {
+ //AEDPCGBF
   B00010100, // 0
   B11110101, // 1
   B00011001, // 2
