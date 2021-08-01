@@ -40,7 +40,7 @@ It has been tested sucessfully with following setup:
 	    
 </br>
 <img src="https://i.imgur.com/jWa8qOf.png" width="600">
-<b>Click to enlarge:</b>
+Click to enlarge
 
 ## Bring the display to life
 
