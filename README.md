@@ -33,9 +33,9 @@ It has been tested sucessfully with following setup:
 |Q1          |1           |  |SH_CP       |D6           |  |D3          |9          |   |2            |5V         |       
 |Q2          |2           |  |ST_CP       |D7           |  |D4          |8          |   |             |           |       
 |Q3          |3           |  |DS	  |D8           |  |D5          |6          |   |             |           |       
-|Q4          |4           |  |            |             |  |            |           |   |             |           |       
-|Q5          |5           |  |            |             |  |            |           |   |             |           |       
-|Q6          |7           |  |            |             |  |            |           |   |             |           |       
+|Q4          |4           |  |OE          |GND          |  |            |           |   |             |           |       
+|Q5          |5           |  |VCC         |5V           |  |            |           |   |             |           |       
+|Q6          |7           |  |GND         |GND          |  |            |           |   |             |           |       
 |Q7          |10          |  |            |             |  |            |           |   |             |           |
 	    
 </br>
