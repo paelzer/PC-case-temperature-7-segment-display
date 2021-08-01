@@ -32,9 +32,18 @@ It has been tested sucessfully with following setup:
       KTY81 110 temperature sensor
       Arduino NANO
       
-Check the schematic below to see how the components need to be connected to the Arduino NANO:
+Check the pinout below to see know the components need to be connected:
 
-      xxx
+      74HC595 Pin		Display Pin
+	Q0		->		11		
+	Q1		->		1
+	Q2		->		2
+	Q3		->		3
+	Q4		->		4
+	Q5		->		5
+	Q6		->		7
+	Q7		->		10
+xxx
 	  xxx
 	  xxx
 	  to be continoued...
