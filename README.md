@@ -56,9 +56,9 @@ Check the pinout below to see know the components need to be connected:
 	    D4			8
 	    D5			6
 	    
-	KTY81-110 Pin	    Arduino NANO
-	    1			A1
-	    2			
+	KTY81-110 Pin
+	    1			5V
+	    2			check in schematic below
 	    
 <b>Click to enlarge:</b> 
 </br> </br>
