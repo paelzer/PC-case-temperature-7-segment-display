@@ -1,10 +1,9 @@
-# PC case temperature 7 segment display
+# PC case temperature on a 4-digit 7-segment display
+**This project allows you to show your PC case temperature on a 4 digit 7 segment display connected to an Arduino NANO**
 
-Not that it's really neccessary to have one... but I think it looks cool anyway :-)
+**Not that it's really neccessary to have one... but I think it looks cool anyway :-)**
 
-** This description is not yet complete. Some more detailed pictures I still need to add... will be done soon. **
-
-** This project allows you to show your PC case temperature on a 4 digit 7 segment display connected to an Arduino NANO **
+> **Note:** This description is not yet complete. Some more detailed pictures I still need to add... will be done soon.
 
 </br>
 <img src="https://i.imgur.com/EwXUg77.png">
@@ -28,31 +27,16 @@ It has been tested sucessfully with following setup:
       
 ## Pinout and schematic:
 
-	74HC595 Pin	   Display Pin
-	    Q0		       11		
-	    Q1		       1
-	    Q2		       2
-	    Q3		       3
-	    Q4		       4
-	    Q5		       5
-	    Q6		       7
-	    Q7		       10
-	
-	74HC595 Pin	   Arduino NANO
-	    MR			D12
-	    SH_CP		D6
-	    ST_CP		D7
-	    DS			D8
-	    
-	Arduino NANO	   Display Pin
-	    D2			12
-	    D3			9
-	    D4			8
-	    D5			6
-	    
-	KTY81-110 Pin
-	    1			5V
-	    2			check in schematic below
+|74HC595 Pin |Display Pin |  |74HC595 Pin |Arduino Pin  |  |Arduino NANO|Display Pin|   |KTY81-110 Pin|Arduino Pin|
+|------------|------------|--|------------|-------------|--|------------|-----------|---|-------------|-----------|        
+|Q0          |11          |  |MR	  |D12          |  |D2          |12         |   |1            |A1         |       
+|Q1          |1           |  |SH_CP       |D6           |  |D3          |9          |   |2            |5V         |       
+|Q2          |2           |  |ST_CP       |D7           |  |D4          |8          |   |             |           |       
+|Q3          |3           |  |DS	  |D8           |  |D5          |6          |   |             |           |       
+|Q4          |4           |  |            |             |  |            |           |   |             |           |       
+|Q5          |5           |  |            |             |  |            |           |   |             |           |       
+|Q6          |7           |  |            |             |  |            |           |   |             |           |       
+|Q7          |10          |  |            |             |  |            |           |   |             |           |
 	    
 </br>
 <img src="https://i.imgur.com/jWa8qOf.png" width="600">
