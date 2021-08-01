@@ -22,15 +22,16 @@ It has been tested sucessfully with following setup:
 * Flash the KTY81-110_7segm.ino file to the Arduino NANO
 
 * Connect the Arduino via USB to your PC
+> Since the Arduino is placed inside my PC case I have myself created a cable to connect it to one of the internal USB headers directly on the mainboard so I don't need to route the cable to a USB port outside of the case. 
 
 ## Required hardware components:
 
-    - 7 segment display with 4 digits (common anode type)
-    - 1x 8bit shift register 74HC595
-    - 1x Resistor 3.3K Ohm
-    - 8x Resistor 220 Ohm
-    - KTY81 110 temperature sensor
-    - Arduino NANO
+    7 segment display with 4 digits (common anode type)
+    1x 8bit shift register 74HC595
+    1x Resistor 3.3K Ohm
+    8x Resistor 220 Ohm
+    KTY81 110 temperature sensor
+    Arduino NANO
       
 ## Pinout and schematic:
 
